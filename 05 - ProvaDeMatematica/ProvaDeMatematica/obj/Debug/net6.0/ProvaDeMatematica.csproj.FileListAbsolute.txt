@@ -1,0 +1,15 @@
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\bin\Debug\net6.0\ProvaDeMatematica.exe
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\bin\Debug\net6.0\ProvaDeMatematica.deps.json
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\bin\Debug\net6.0\ProvaDeMatematica.runtimeconfig.json
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\bin\Debug\net6.0\ProvaDeMatematica.dll
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\bin\Debug\net6.0\ProvaDeMatematica.pdb
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\obj\Debug\net6.0\ProvaDeMatematica.csproj.AssemblyReference.cache
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\obj\Debug\net6.0\ProvaDeMatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\obj\Debug\net6.0\ProvaDeMatematica.AssemblyInfoInputs.cache
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\obj\Debug\net6.0\ProvaDeMatematica.AssemblyInfo.cs
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\obj\Debug\net6.0\ProvaDeMatematica.csproj.CoreCompileInputs.cache
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\obj\Debug\net6.0\ProvaDeMatematica.dll
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\obj\Debug\net6.0\refint\ProvaDeMatematica.dll
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\obj\Debug\net6.0\ProvaDeMatematica.pdb
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\obj\Debug\net6.0\ProvaDeMatematica.genruntimeconfig.cache
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\ProvaDeMatematica\ProvaDeMatematica\obj\Debug\net6.0\ref\ProvaDeMatematica.dll
