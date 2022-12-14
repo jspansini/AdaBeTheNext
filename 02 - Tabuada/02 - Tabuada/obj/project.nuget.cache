@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgr8uX6kiJsXiwLppRhLlA6SHqudTjbb0+jTpE5SG5felaFAY0LdentJ4jbvsbk0zxBDcNvUrrvgzE6lh4mV1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jessica.pansini\\Desktop\\Estudos C#\\sinqia\\02 - Tabuada\\02 - Tabuada\\02 - Tabuada.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.rsmbrasil.com.br/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
