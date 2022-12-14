@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3uuL05FjkUt6qS2+eYl2xGmzsIDCDmDEwYovuOgPE9pGaDhspHU/7z7K78zdggc0PEOsRmwoD4tVya6g87VTFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jessica.pansini\\Desktop\\Estudos C#\\sinqia\\PrintFormatado\\PrintFormatado\\PrintFormatado.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.rsmbrasil.com.br/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

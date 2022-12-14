@@ -1,0 +1,15 @@
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\bin\Debug\net6.0\PrintFormatado.exe
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\bin\Debug\net6.0\PrintFormatado.deps.json
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\bin\Debug\net6.0\PrintFormatado.runtimeconfig.json
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\bin\Debug\net6.0\PrintFormatado.dll
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\bin\Debug\net6.0\PrintFormatado.pdb
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\obj\Debug\net6.0\PrintFormatado.csproj.AssemblyReference.cache
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\obj\Debug\net6.0\PrintFormatado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\obj\Debug\net6.0\PrintFormatado.AssemblyInfoInputs.cache
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\obj\Debug\net6.0\PrintFormatado.AssemblyInfo.cs
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\obj\Debug\net6.0\PrintFormatado.csproj.CoreCompileInputs.cache
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\obj\Debug\net6.0\PrintFormatado.dll
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\obj\Debug\net6.0\refint\PrintFormatado.dll
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\obj\Debug\net6.0\PrintFormatado.pdb
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\obj\Debug\net6.0\PrintFormatado.genruntimeconfig.cache
+C:\Users\jessica.pansini\Desktop\Estudos C#\sinqia\PrintFormatado\PrintFormatado\obj\Debug\net6.0\ref\PrintFormatado.dll
